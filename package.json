@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mattshin64/nba_stats_project#readme",
   "dependencies": {
+    "axios": "^0.20.0",
     "node": "^14.8.0"
   }
 }

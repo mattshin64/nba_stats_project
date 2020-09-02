@@ -1,0 +1,23 @@
+{
+  "name": "nba_stats_project",
+  "version": "1.0.0",
+  "description": "A compilation of scripts to find different statistical trends in NBA stats using the NBA API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattshin64/nba_stats_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattshin64/nba_stats_project/issues"
+  },
+  "homepage": "https://github.com/mattshin64/nba_stats_project#readme",
+  "dependencies": {
+    "node": "^14.8.0"
+  }
+}
